@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Factorial {
+@FunctionalInterface
+public interface Factorial {
+    String factorial(int number);
 }

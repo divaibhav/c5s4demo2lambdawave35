@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface EvenOddCheck {
+@FunctionalInterface
+public interface EvenOddCheck {
+    boolean checkEven(int number);
 }

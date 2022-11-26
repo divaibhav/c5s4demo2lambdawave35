@@ -1,3 +1,5 @@
+package lambdacomparator;
+
 public class Student {
     private String firstName;
     private String lastName;
